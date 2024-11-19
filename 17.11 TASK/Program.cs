@@ -96,7 +96,7 @@ namespace _17._11_TASK
         {
                                 do
                                 {
-                                    Console.ForegroundColor=ConsoleColor.DarkCyan;
+                                    Console.ForegroundColor=ConsoleColor.White;
                                     Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
                                     Console.WriteLine("0.EXIT");
                                     Console.WriteLine("~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~");
